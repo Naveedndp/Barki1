@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#Original written By Muhmmad Sarfraz
+#BARKI Teach my wp 03188939326
 
 import os,zlib
 
